@@ -1,0 +1,21 @@
+
+img {
+    height: 400px;
+}
+
+.row ul {
+    color: greenyellow;
+}
+
+.row .btn {
+    border-radius: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+    .script h1{
+        font-size: 400%;
+    }
+    .script .btn {
+        font-size: 200%;
+    }
+}
